@@ -11,7 +11,7 @@ import java.io.*;
 
 /**
  * The MusicPlayerUI class represents the user interface of a music player application.
- * It extends JPanel and implements ActionListener to handle user actions.
+ * It extends JPanel and  1implements ActionListener to handle user actions.
  */
 public class MusicPlayerUI extends JPanel implements ActionListener {
     private JLabel songName;
